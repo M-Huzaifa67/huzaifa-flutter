@@ -1,0 +1,16 @@
+{
+  "name": "alex-rivera-portfolio",
+  "version": "1.0.0",
+  "description": "Premium Flutter Developer Portfolio",
+  "scripts": {
+    "dev": "npx live-server --port=3000",
+    "build": "echo Static site — no build step required",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["flutter","portfolio","gsap","threejs"],
+  "author": "Muhammad Huzaifa",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
