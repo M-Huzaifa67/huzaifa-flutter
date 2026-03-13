@@ -1,7 +1,7 @@
 {
-  "name": "alex-rivera-portfolio",
+  "name": "huzaifa-flutter-portfolio",
   "version": "1.0.0",
-  "description": "Premium Flutter Developer Portfolio",
+  "description": "Huzaifa Flutter Developer Portfolio",
   "scripts": {
     "dev": "npx live-server --port=3000",
     "build": "echo Static site — no build step required",
