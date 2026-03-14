@@ -50,7 +50,7 @@ const PROJECTS = [
     description: "Developed a food delivery app enabling users to order from preferred restaurants and track deliveries in real-time using Google Maps.",
     category: "firebase",
     tags: ["Flutter", "Firestore", "GetX", "Stripe"],
-    image: "images/projects/Foodel.png",
+    image: "images/projects/foodel.png",
     gradient: "from-orange-500/20 to-pink-500/20",
     accentColor: "#f97316",
     github: "https://github.com/alexrivera/storely",

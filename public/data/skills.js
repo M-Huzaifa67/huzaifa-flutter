@@ -6,40 +6,50 @@ const SKILLS = [
     category: "Core Mobile",
     icon: "📱",
     skills: [
-      { name: "Flutter / Dart",     level: 98, icon: "🐦" },
-      { name: "iOS (Swift)",         level: 72, icon: "🍎" },
-      { name: "Android (Kotlin)",    level: 75, icon: "🤖" },
-      { name: "React Native",        level: 68, icon: "⚛️"  },
+      { name: "Flutter / Dart", level: 98, icon: "🐦" },
+      { name: "Responsive UI Design", level: 92, icon: "📐" },
+      { name: "Clean Architecture", level: 90, icon: "🏗️" },
+      { name: "App Performance Optimization", level: 88, icon: "⚡" },
     ]
   },
   {
     category: "State Management",
     icon: "⚙️",
     skills: [
-      { name: "BLoC / Cubit",  level: 96, icon: "🧩" },
-      { name: "Riverpod",      level: 90, icon: "🎣" },
-      { name: "GetX",          level: 88, icon: "🚀" },
-      { name: "Provider",      level: 85, icon: "🔌" },
+      { name: "Riverpod", level: 90, icon: "🎣" },
+      { name: "GetX", level: 88, icon: "🚀" },
+      { name: "Provider", level: 85, icon: "🔌" },
+      { name: "MVC Pattern", level: 82, icon: "🧱" },
     ]
   },
   {
-    category: "Backend & Cloud",
+    category: "Backend & Integrations",
     icon: "☁️",
     skills: [
-      { name: "Firebase Suite",   level: 94, icon: "🔥" },
-      { name: "REST APIs",        level: 95, icon: "🌐" },
-      { name: "GraphQL",          level: 78, icon: "◈"  },
-      { name: "Node.js",          level: 70, icon: "🟢" },
+      { name: "REST API Integration", level: 95, icon: "🌐" },
+      { name: "Firebase (Auth / Firestore / FCM)", level: 94, icon: "🔥" },
+      { name: "Google Maps Integration", level: 90, icon: "🗺️" },
+      { name: "Node.js (Basic–Intermediate)", level: 70, icon: "🟢" },
     ]
   },
   {
-    category: "Tools & Design",
+    category: "Tools & Deployment",
     icon: "🛠️",
     skills: [
-      { name: "Git / GitHub",   level: 95, icon: "🐙" },
-      { name: "Figma",          level: 80, icon: "🎨" },
-      { name: "CI/CD (Fastlane)", level: 82, icon: "🚦" },
-      { name: "Testing (TDD)",  level: 88, icon: "🧪" },
+      { name: "Git / GitHub", level: 95, icon: "🐙" },
+      { name: "Manual Testing", level: 85, icon: "🧪" },
+      { name: "Vercel Deployment", level: 85, icon: "▲" },
+      { name: "Firebase Hosting", level: 85, icon: "🔥" },
+    ]
+  },
+  {
+    category: "Web Basics",
+    icon: "🌐",
+    skills: [
+      { name: "HTML", level: 70, icon: "📄" },
+      { name: "CSS / Tailwind", level: 68, icon: "🎨" },
+      { name: "JavaScript", level: 65, icon: "⚡" },
+      { name: "Responsive Web Design", level: 70, icon: "📱" },
     ]
   }
 ];

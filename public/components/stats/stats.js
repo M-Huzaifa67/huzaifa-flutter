@@ -5,8 +5,8 @@ const StatsComponent = {
   stats: [
     { label: "Years Experience", value: 2.0,  suffix: "+",   icon: "🗓️" },
     { label: "Apps Shipped",     value: 10, suffix: "+",   icon: "📱" },
-    { label: "Happy Clients",    value: 5.0, suffix: "+",   icon: "🤝" },
-    { label: "App Downloads",    value: 50,  suffix: "M+",  icon: "⬇️" },
+    { label: "Happy Clients",    value: 10, suffix: "+",   icon: "🤝" },
+    { label: "App Ratings",    value: 4.5,  suffix: "+",  icon: "⬇️" },
   ],
 
   init() {
