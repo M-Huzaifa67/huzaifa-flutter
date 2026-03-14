@@ -13,7 +13,7 @@ const PROJECTS = [
     accentColor: "#09de8e",
     github: "https://github.com/alexrivera/fitflow",
     demo: "https://fitflow.app",
-    featured: true,
+    featured: true, 
     year: "2024"
   },
     {
