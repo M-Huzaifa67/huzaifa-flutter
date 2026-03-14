@@ -11,7 +11,7 @@ const PROJECTS = [
     image: "images/projects/crs.png",
     gradient: "from-violet-500/20 to-brand-500/20",
     accentColor: "#09de8e",
-    github: "https://github.com/alexrivera/fitflow",
+    github: "https://github.com/huzaifa/fitflow",
     demo: "https://fitflow.app",
     featured: true, 
     year: "2024"
@@ -25,7 +25,7 @@ const PROJECTS = [
     image: "images/projects/myDictionary.png",
     gradient: "from-indigo-500/20 to-purple-500/20",
     accentColor: "#818cf8",
-    github: "https://github.com/alexrivera/newswave",
+    github: "https://github.com/huzaifa/newswave",
     demo: "",
     featured: false,
     year: "2024"
@@ -39,7 +39,7 @@ const PROJECTS = [
     image: "images/projects/chatAi.png",
     gradient: "from-blue-500/20 to-cyan-500/20",
     accentColor: "#38bdf8",
-    github: "https://github.com/alexrivera/payswift",
+    github: "https://github.com/huzaifa/payswift",
     demo: "https://payswift.io",
     featured: true,
     year: "2024"
@@ -53,7 +53,7 @@ const PROJECTS = [
     image: "images/projects/Foodel.png",
     gradient: "from-orange-500/20 to-pink-500/20",
     accentColor: "#f97316",
-    github: "https://github.com/alexrivera/storely",
+    github: "https://github.com/huzaifa/storely",
     demo: "https://storely-demo.web.app",
     featured: false,
     year: "2025"
@@ -67,7 +67,7 @@ const PROJECTS = [
     image: "images/projects/haro.png",
     gradient: "from-emerald-500/20 to-teal-500/20",
     accentColor: "#10b981",
-    github: "https://github.com/alexrivera/devportal",
+    github: "https://github.com/huzaifa/devportal",
     demo: "https://devportal.web.app",
     featured: false,
     year: "2025"
@@ -82,8 +82,8 @@ const PROJECTS = [
     image: "images/projects/islamRise.png",
     gradient: "from-brand-500/20 to-lime-500/20",
     accentColor: "#09de8e",
-    github: "https://github.com/alexrivera/portfolio",
-    demo: "https://alexrivera.dev",
+    github: "https://github.com/huzaifa/portfolio",
+    demo: "https://huzaifa.dev",
     featured: false,
     year: "2025"
   }
